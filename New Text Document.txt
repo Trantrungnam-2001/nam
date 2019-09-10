@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <tilte><p style="color: white; background-color: pink; font-size: 64px; font-family: ?rial; text-align: center">  NAM'S SHOES^^</p> </tilte>
+</head>
+<body>
+  <h5>By Nam</h5>
+  <h6>10-09-2019</h6>
+
+    <h2>1. Converse 70s (high)</h2>
+      <img src="https://file.hstatic.net/1000250895/file/verse--chuck-taylor-all-star-_70-hi-_black--black-egret-162050c-1-os_2_grande.jpg"/>
+        <i style="text-align: right"> My next target</i>
+       <h4>Converse Chuck Taylor Vs. Chuck 70: Breaking Down the Differences</h4>
+       <p>Detail makes all the difference. In the early 80s, Converse made a series of small changes to their iconic Chuck Taylor All Star to produce the version we’re familiar with today. The adaptations were made without compromising the design’s DNA, but to the eagle-eyed observer, no two shoes are the same. After decades of success with the revised version, Converse decided it was time to pay tribute to its progenitor and released the Chuck 70 in 2013.<p> 
+       <a href="https://www.sneakerfreaker.com/articles/converse-chuck-taylor-vs-chuck-70-breaking-down-the-differences/" target="_blank">Learn More</a>
+    
+    <h2>2. Vans old skool black and white</h2>
+      <img src="https://scontent.fdad3-3.fna.fbcdn.net/v/t1.0-9/15420933_1124508497647245_5927935375881407140_n.jpg?_nc_cat=107&_nc_eui2=AeGalBdbqGkZY8smqWIw3i6way2-Ar-EfThAfmn85tKIQbOOPKdbQgkq1NhmV3WJkuNpd5KXUTDRvty-K7vSxhLCYYswp4GkGQcrAsEbu5focA&_nc_oc=AQkRh_clzjQv3AwJvKfQhq8_g_dAs1VitEa9PQ93SqtS52NNhsyMTJXdRA0-Hm-D7nI&_nc_ht=scontent.fdad3-3.fna&oh=cbec147d0b57f0e6030ecf41d4da8df3&oe=5E128B04"/>
+        <i style="text-align: right">It is the first shoes that I bouhgt by my own money.</i>
+        <i style="text-align: right">At the begining, I'm not like it prety much, but gradually I became crazy about it's basic beauty.</i>
+        <h4>How vans old skool became the most important shoe in the world</h4>
+        <p>From the feet of skaters to the shoe rack of Julia Roberts and fashion weeks around the world, just why has the whole world gone Old Skool?</p>
+        <a href="https://i-d.vice.com/en_uk/article/3kd8wk/vans-old-skool-most-important-shoe"target="_blank">Learn More</a>
+    
+    <h2>3. Converse chuck taylor 2 (high)</h2>
+      <img src="https://scontent.fdad3-2.fna.fbcdn.net/v/t1.0-9/69256959_1238547392975232_6349660653766049792_n.jpg?_nc_cat=101&_nc_eui2=AeHa0ZJkSpNC2_5rc0ZYzveCdRWUuPntivIDqsOGO-pWf5KLiS7fReFRKyY5T4So43L1VFH6pDYAGAs13b4kYHe1RnPSwTatYbtTwczUWoUd8g&_nc_oc=AQlPoI9gHU3sDm3HrcGJMg29UqmvcFbW8t4S3LBSynd16kNhRJ90GLjioSd_fbZhB3s&_nc_ht=scontent.fdad3-2.fna&oh=508090187588d2a3f1e4da1c76f977dc&oe=5DFDE4C5"/>
+        <i style=text-align: right"> It is the most comfortable that I have</i>
+        <h4>Converse Unveils the Chuck Taylor II. Here’s What It Looks Like, and How They’ll Market It</h4>
+        <p>Famous sneaker gets an upgrade, but it's optional</p>
+         <a href="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjj3KKFvsbkAhWV7HMBHVp-BmoQjRx6BAgBEAQ&url=https%3A%2F%2Fvatgia.com%2F1148%2F6003456%2Fgi%25E1%25BA%25A7y-converse-chuck-ii-supperfake-cao-c%25E1%25BB%2595-ghi-nam-h45ysf.html&psig=AOvVaw1MJ4P9bbp5txNKOgiN2LIm&ust=1568212789318352"target="_blank">Learn More</a>
+    <h3>QUOTES</h3>
+        <quote>
+            <p>"A woman with good shoes is never ugly."</p>
+            <cite>- -Coco Chanel- -</cite>
+        </quote>
+        <quote>
+            <p>"I don't have three thousand pairs of shoes, I only have a thousand and sixty pairs."</p>
+            <cite>- Imelda Marcos -</cite>
+        </quote>
+        <quote>
+            <p>"A pair of shoes can change your life."</p>
+            <cite>--Cinderella--</cite>
+        </quote>
+        <quote>
+            <p>"Nam handsome."</p>
+            <cite>- Nam -</cite>
+        </quote>
+<a href="https://www.facebook.com/trannamarsenal"target="_blank">Click to meet the cosmic prophet.</a>
+</body>
